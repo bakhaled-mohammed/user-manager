@@ -75,7 +75,7 @@ export default function App() {
     <main className="page">
       <header>
         <h1>Gestion des utilisateurs</h1>
-        <p className="subtitle">Spring Boot · React · MySQL — projet d'entraînement DevOps</p>
+        <p className="subtitle">Spring Boot · React · MySQL — projet d'entraînement DevOps (v1.1)</p>
       </header>
 
       <section className="card">
